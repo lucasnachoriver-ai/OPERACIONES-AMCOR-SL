@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "4500052641",
+    "estado": "LIBERAR",
+    "proveedor": "AMCOR FLEXIBLES CHINA CO.",
+    "transporte": "MARITIMO",
+    "fecha": "2026-10-05",
+    "terminal": "RIO"
+  },
+  {
+    "codigo": "4500053404",
+    "estado": "LIBERAR",
+    "proveedor": "PERUPLAST",
+    "transporte": "AEREO",
+    "fecha": "2026-10-12",
+    "terminal": "EZEIZA"
+  }
+]
